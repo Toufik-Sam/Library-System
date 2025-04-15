@@ -80,5 +80,9 @@ The special admin user can perform the following management tasks:
    - Safely exit the admin session.
 
 ---
+![image alt]([https://github.com/Toufik-Sam/Library-System/blob/Master/C1.PNG])
+![image alt]([https://github.com/Toufik-Sam/Library-System/blob/Master/C2.PNG])
+![image alt]([https://github.com/Toufik-Sam/Library-System/blob/Master/C4.PNG])
+
 
 
