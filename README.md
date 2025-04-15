@@ -81,9 +81,4 @@ The special admin user can perform the following management tasks:
 
 ---
 
-## 🛠️ Tech Stack
-- **Java**
-- **Eclipse**
----
-
 
